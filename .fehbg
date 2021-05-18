@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/mathew/images/wg/1433224096114.jpg' 

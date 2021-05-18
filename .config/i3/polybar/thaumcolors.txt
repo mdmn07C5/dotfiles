@@ -1,0 +1,16 @@
+colors
+
+metallum = #211918
+ivory = #EBE9E1
+vacuos = #191919
+tenebrae = #282828
+pannus = #EAEAC2
+ordo = #D1D0E7
+lucrum = #DB8800
+sano = #C02327
+red_dull = #3C0B11
+praecantatio = #9700C0
+sensus = #0A98B3
+auram = #C091C0
+terra = #01AC00
+superbia = #9639FF
